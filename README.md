@@ -1,19 +1,25 @@
-# Nom du projet 
+# Protfolio Claire Michaut
 
 ## Description :
-Ceci est une description 
+
+il s'agit d'un site internet qui permet de mettre en avant mes capacitées.
 
 
-### Équipe : 
-- 
 
-### Technologie utilisée (language, algorithme...) :
-- 
+### Équipe : Claire Michaut (moi-même)
 
-### Résultats :
-- 
+* 
 
-## Post-Mortem : 
+### Technologie utilisée (language, algorithme...) : htlm, css
+
+* 
+
+### Résultats : index.htlm
+
+* 
+
+## Post-Mortem :
+
 
 
 ### Ce qui était a réalisé :
@@ -22,7 +28,7 @@ Ceci est une description
 
 ### Ce dont ont est fier :
 
-### Ce qu'on a appris : 
+### Ce qu'on a appris :
 
 ### Possibilité d'évolution :
 
