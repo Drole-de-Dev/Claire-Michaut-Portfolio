@@ -1,0 +1,44 @@
+a {
+    color: black;
+    margin-right: 14px;
+    text-decoration: none;
+}
+
+.logo {
+    width: 4%;
+    height: auto;
+    vertical-align: middle;
+}
+
+.logo_text{
+    vertical-align: middle;
+}
+
+
+body
+{
+    font-family: 'Georgia';
+    margin: 0;
+    padding: 16px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-card {
+    color: #421590;
+    background: #dce4ff;
+    font-weight: bold;
+    border: 2px solid #421590;
+    border-radius: 12px;
+    padding: 8px;
+    font-size: 1.5rem;
+}
+
+
+
+
+
