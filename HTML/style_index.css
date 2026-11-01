@@ -5,9 +5,10 @@ a {
 }
 
 .logo {
-    width: 4%;
+    width: 2.5%;
     height: auto;
     vertical-align: middle;
+    padding: 2px;
 }
 
 .logo_text{
