@@ -1,7 +1,15 @@
+*{
+    font-size: 105%;
+}
+
 a {
     color: black;
-    margin-right: 14px;
-    text-decoration: none;
+}
+
+.name{
+    font-size: 30px;
+    margin:auto;
+    margin-bottom: 10px;
 }
 
 .logo {
@@ -13,6 +21,8 @@ a {
 
 .logo_text{
     vertical-align: middle;
+    margin-right: 14px;
+    text-decoration: none;
 }
 
 
@@ -29,6 +39,48 @@ h1 {
     align-items: center;
 }
 
+h1, h2{
+    font-size: 150%;
+}
+
+.principale{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 10px;
+
+    background: #d5e8ff;
+    border: 2px solid #3e82d0;
+    border-radius: 12px;
+    padding: 12px;
+    margin-top: 30px;
+}
+
+
+.a_propos{
+    justify-content: right;
+    margin-right:auto;
+    width: fit-content;
+
+    padding-right: 50px;
+    border-right: 2px solid black;
+}
+
+.atouts{
+    h2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    justify-content: right;
+    margin-left:auto;
+    width: fit-content;
+}
+
+
+
 .project-card {
     color: #421590;
     background: #dce4ff;
@@ -37,8 +89,9 @@ h1 {
     border-radius: 12px;
     padding: 8px;
     font-size: 1.5rem;
+    margin-right: 14px;
+    text-decoration: none;
 }
-
 
 
 
