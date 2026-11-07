@@ -1,49 +1,19 @@
-a {
-   color: black;
-    margin-right: 14px;
-    text-decoration: none;
+h1{
+    font-size: 3rem;
+    margin:auto
 }
 
-.name{
-    font-size: 40px;
-    margin:auto;
-    margin-bottom: 10px;
-}
-
-.logo {
-    width: 2.5%;
-    height: auto;
-    vertical-align: middle;
-}
-
-.logo_text{
-    color: black;
-    text-decoration: none;
-    vertical-align: middle;
-}
-
-
-body
-{
-    font-family: 'Georgia';
-    margin: 0;
-    padding: 16px;
-}
-
-h1 {
+.title{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin:auto
 }
 
-.project-card {
-    color: #421590;
-    background: #dce4ff;
-    font-weight: bold;
-    border: 2px solid #421590;
-    border-radius: 12px;
-    padding: 8px;
-    font-size: 1.5rem;
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .boxes {
@@ -67,6 +37,7 @@ h1 {
     padding: 12px;
     margin-top: 30px;
     box-shadow: 6px 7px;
+    text-decoration: none;
 }
 
 .download:active{
